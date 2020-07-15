@@ -1,0 +1,227 @@
+#EXTM3U
+
+#####################################################################################
+########################################   Radios Montes Claros   ###################
+#####################################################################################
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio15718_1439401491.jpg" group-title="Radios Montes Claros", RADIO TRANSAMERICA 95.1 FM
+http://servidor39.brlogic.com:8152/live?1568664280820
+
+#EXTINF:-1 tvg-logo="https://d2iw5las1rjvep.cloudfront.net/rfm/uploads/rlogo/300/300_1511474050.png" group-title="Radios Montes Claros", RADIO 98.9 FM 
+https://ssl.audiovox.pw:7506/mount
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio13505_1510315522.jpg" group-title="Radios Montes Claros", RADIO ITATIAIA 100.3 FM
+http://streaming12.hstbr.net:8116/live?1591732341116
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio99_1500289229.png" group-title="Radios Montes Claros", RADIO SÃO FRANCISCO DE ASSIS 93.5 FM
+https://ssl.audiovox.pw:7504/stream?1591732431984
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s120037g.png" group-title="Radios Montes Claros", RADIO TERRA 760.0 AM
+http://s01.transmissaodigital.com:7396/stream?1591732476022
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio66111_1568716229.png" group-title="Radios Montes Claros", RADIO CONEXÃO ONLINE
+http://hts04.kshost.com.br:8782/stream?1591733036766
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio22701_1553078983.jpg" group-title="Radios Montes Claros", RADIO EDUCADORA FM 102.9
+http://servidor40.brlogic.com:8252/live?1591733109318
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio34906_1453746405.jpg" group-title="Radios Montes Claros", RADIO MEGA FM 96.1
+http://hts01.painelstream.net:8698/stream?1591733180957
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio145623_1589907945.jpg" group-title="Radios Montes Claros", RADIO UNIVERSITÁRIA UNIMONTES FM 101.1
+https://s25.maxcast.com.br:8100/live?1591733266944
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio102489_1551379635.jpg" group-title="Radios Montes Claros", RADIO VITORIA 1320 AM
+http://paineldj.com.br:11578/;?1591733352683
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio30750_1483702724.jpg" group-title="Radios Montes Claros", RADIO SUPER RADIO BOA VONTADE 550 AM
+http://shout35.crossradio.com.br:8036/1.aac?1591733471737
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio16371_1569948893.jpg" group-title="Radios Montes Claros", RADIO HÁ ESPERANÇA
+https://servidor39-5.brlogic.com:8156/live?1591733544031
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio33690_1443450804.jpg" group-title="Radios Montes Claros", RADIO ECATÓLICO
+http://server02.ouvir.radio.br:8040/stream?1591733667504
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio29506_1439401709.jpg" group-title="Radios Montes Claros", RADIO FÉ E ALEGRIA
+http://216.245.217.20:8218/live?1591733723521
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio33434_1586927196.png" group-title="Radios Montes Claros", RADIO RETRÔ
+http://server01.stmsg.top:7586/;?1591733809198
+
+#####################################################################################
+########################################   Radios Musica   ##########################
+#####################################################################################
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 70
+http://192.99.150.31:8241/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 80
+http://192.99.150.31:8697/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 90
+http://192.99.150.31:8056/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,AXÉ
+http://192.99.150.31:8305/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,BREGA
+http://192.99.150.31:9007/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ELETRÔNICA
+http://192.99.150.31:9095/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,FORRÓ
+http://192.99.150.31:9019/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,FUNK
+http://192.99.150.31:9089/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,GOSPEL
+http://192.99.150.31:9101/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,HIP HOP
+http://192.99.150.31:8721/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,KIDS
+http://192.99.150.31:9431/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,JAZZ
+http://192.99.150.31:8042/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,LOUNGE
+http://6d9a.webradio.upx.net.br:9064/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,METAL
+http://6d9a.webradio.upx.net.br:9898/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,MPB
+http://192.99.150.31:8775/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,MÚSICA CLÁSSICA
+http://6d9a.webradio.upx.net.br:9970/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,NEW ROCK
+http://6d9a.webradio.upx.net.br:8028/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,POP RITS
+http://6d9a.webradio.upx.net.br:9046/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,POP ROCK
+http://6d9a.webradio.upx.net.br:8016/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,SERTANEJO UNIVERSITÁRIO
+http://192.99.150.31:9191/stream?
+
+#EXTINF:-1 group-title="Radios Musica" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,TRILHAS SONORAS
+http://6d9a.webradio.upx.net.br:9896/stream?  
+ 
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, SERTANEJO RAIZES
+http://192.99.150.31:9155/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, RAP NACIONAL
+http://192.99.150.31:8377/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, REGGAE
+http://192.99.150.31:8715/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, ROCK CLASSICO
+http://192.99.150.31:9125/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, RODEIO
+http://192.99.150.31:9473/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, SERTANEJO
+http://192.99.150.31:9485/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, SMOOTH JAZZ
+http://192.99.150.31:8042/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, TECHNO
+http://192.99.150.31:8301/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, TECNO BREGA
+http://192.99.150.31:8989/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, RAP NACIONAL
+http://192.99.150.31:8377/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, FESTA
+http://6d9a.webradio.upx.net.br:9070/stream
+
+#EXTINF:-1 GROUP-TITLE="Radios Musica" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, METROPOLETANA FM - FUNK
+http://paineldj4.com.br:8306/stream
+
+
+#####################################################################################
+########################################   Canais | Musica   ########################
+#####################################################################################
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6c4zqybh1wo/XQ7jYQfG8UI/AAAAAAAABMY/uneDcaDrYr4uglted32-rhYirCooF5XjwCLcBGAs/s320/Screenshot_2019-06-22-23-23-54.png" group-title="Canais | Musica", TOP TV
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w431491948.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-qF9tklzGkfI/XQfBA3CnQaI/AAAAAAAABD0/XhhHQno9RzA88X86L8KOEtc_YCNOQ-02ACLcBGAs/s320/Screenshot_2019-06-17-13-29-49.png" group-title="Canais | Musica", CAROLINA TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8?nimblesessionid=16676638
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-AhaAsc9h4uI/XsbEt8PTbpI/AAAAAAAAC1M/j8wUicUdhBsscNx7qRPmXY_RjklCPSWRwCLcBGAsYHQ/s320/Screenshot_2020-05-21-15-10-07.png" group-title="Canais | Musica", GOSPEL MUSIC TELEVISION
+https://stmv6.srvstm.com/gmusic/gmusic/chunklist_w1163728539.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_e_57qMs5hU/XRD-o6ktfjI/AAAAAAAABM8/54bGOikS6SMavTF7LEefte3qHaZbG8tCACLcBGAs/s320/Screenshot_2019-06-24-13-39-35.png" group-title="Canais | Musica", MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w92011659_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-8GCMWmEqu-4/XQgVdBaFCqI/AAAAAAAABEU/bhgmhmbLEOslIK_tvMzujXA3seEldGVXQCPcBGAYYCw/s320/Screenshot_2019-06-17-19-30-30.png" group-title="Canais | Musica", TOP LATINO TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w1713167765.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UH6gK0JGBwk/XidPOzBMjYI/AAAAAAAACYY/UWQ3_r6zQPwMShUaxlEz3BMiy1T1XEyxgCLcBGAsYHQ/s320/Screenshot_2020-01-21-16-17-54.png" group-title="Canais | Musica", RADIO CAPITAL TIVÙ
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-P7kcAwd075Y/XC4_hk4rGPI/AAAAAAAAAYU/JRiBqx54tZ4aPw83Sm0IGt7-b5N1DYXmgCLcBGAs/s1600/Screenshot_2019-01-03-14-58-40.png" group-title="Canais | Musica", RU TV
+https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-r81jzGb2ib8/XO3sVi4-4fI/AAAAAAAAA8A/sxwZLHibzckhXWjw2T3vtOk82PqxPxoKwCLcBGAs/s320/Screenshot_2019-05-28-23-17-14.png" group-title="Canais | Musica", LA MEGA MUNDIAL
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w554763218.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-9yBIMa5eZzU/XNb7WhoyZuI/AAAAAAAAA0Y/1E8ccH44mGcgGXJoqI0Kn0_T-UMdDpZvwCLcBGAs/s320/Screenshot_2019-05-11-13-39-03.png" group-title="Canais | Musica", RADIOU TV
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--YG1vhLHmaU/XNhxygYTNtI/AAAAAAAAA2k/c70s4-yj6zAXPSQgSRJ0mjHDNpt6uLEpQCPcBGAYYCw/s320/Screenshot_2019-05-12-14-17-13.png" group-title="Canais | Musica", CALIFORNIA MUSIC CHANNEL
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7n5CbFThzfk/XgPiSh4ZUOI/AAAAAAAACUM/WsQNR4PvDXwzt8inOhO4Hl7YdWGKJdbOwCLcBGAsYHQ/s320/Screenshot_2019-12-25-19-22-45.png" group-title="Canais | Musica", RADIO IGLESIAS
+https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MELODY CHANNEL SD" tvg-logo="https://image.winudf.com/v2/image/Y29tLm1vYmluY3ViZS5tZWxvZHlfY2hhbm5lbC5zY18zWEg5NUdfaWNvbl8wX2Q0NjY0YjI3/icon.png?w=170&fakeurl=1" group-title="Canais | Musica", MELODY CHANNEL
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="RETRO MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Canais | Musica", RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RETRO MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Canais | Musica", RETRO MUSIC Alter1
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+
+#EXTINF:-1 tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="Canais | Musica", M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/rtl.png" group-title="Canais | Musica", RTL (ITALIA) SD
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="Canais | Musica", PORTAL FOXMIX HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
